@@ -1,4 +1,4 @@
-# SG Archives
+# The SoapGirls Archives
 
 [The_SoapGirls Twitter Archives Part 1](/Tweets/The_SoapGirls-twitter-archived-20260822-Part1.md)  
   
