@@ -1,3 +1,5 @@
+This is part 2 of a generated report. Go [here](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part1.md) to see part 1.  
+  
 * [10 January 2021](https://web.archive.org/web/20210110080155/https://twitter.com/The_SoapGirls/status/1348178133594361857): this way that way !Who else feels like they have been thrust into a politicized human social game of  #CatInTheHat  with big corporations throwing pennies from the sidelines <!--1348178133594361857-->
 * [ 9 January 2021](https://web.archive.org/web/20210109232835/https://twitter.com/The_SoapGirls/status/1348048963518291969): THANKYOU so much! <!--1348048963518291969-->
 * [ 9 January 2021](https://web.archive.org/web/20210109202607/https://twitter.com/The_SoapGirls/status/1348002770129981441): We are Livestreaming NOW on YouTube!  Theme: Street Fighter/Tekken/Mortal  Watch it LIVE:  https://youtu.be/vBwmjael9Lw   Follow us  https://bnds.us/afhp35    #thesoapgirls   #livestream   #RevoltRock   #livemusic   #PunkNotDead   #Tekken   #mortalcombat   #streetfighter  pic.twitter.com/mP9y07konk <!--1348002770129981441-->
