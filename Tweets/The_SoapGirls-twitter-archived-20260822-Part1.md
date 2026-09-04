@@ -1,9 +1,10 @@
 ## Archived tweets for The_SoapGirls (Part 1)
 
 The list below includes 5102 archived tweets by
-[The_SoapGirls](https://twitter.com/The_SoapGirls).
-
-
+[The_SoapGirls](https://twitter.com/The_SoapGirls).  
+  
+This is part 1 of a generated report. Go [here to see part 1](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part2.md).   
+  
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client. Twitter API availability checks were not performed for this run, so the current live status of these tweets is unknown.
