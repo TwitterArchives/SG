@@ -6,8 +6,6 @@ The list below includes 5102 archived tweets by
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
 any Twitter client. Twitter API availability checks were not performed for this run, so the current live status of these tweets is unknown.  
-  
-This is part 1 of a generated report. Go [here to see part 2](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part2.md).    
 
 * [17 August 2026](https://web.archive.org/web/20260817203801/https://twitter.com/The_SoapGirls/status/2089451705893007463): Check out The SoapGirls, Feral Housecats, The Lunar Outlet @ Rumba Cafe https://t.co/rmK0Hj8bsy via @TicketWeb <!--2089451705893007463-->
 * [20 July 2026](https://web.archive.org/web/20260720214434/https://twitter.com/The_SoapGirls/status/2079321594040926323): So excited for tonight’s show @TheWhiskyAGoGo ❤️❤️🫶🫶🫶🫶#thewhiskey #LA https://t.co/A8D0dbHIPZ <!--2079321594040926323-->
