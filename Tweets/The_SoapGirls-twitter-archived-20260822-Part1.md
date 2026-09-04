@@ -3,7 +3,7 @@
 The list below includes 5102 archived tweets by
 [The_SoapGirls](https://twitter.com/The_SoapGirls).  
   
-This is part 1 of a generated report. Go [here to see part 1](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part2.md).   
+This is part 1 of a generated report. Go [here to see part 2](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part2.md).   
   
 Please note that all tweets quoted here are sourced from the
 [Wayback Machine](https://web.archive.org) and were not directly accessed through the Twitter API or
@@ -3498,5 +3498,6 @@ any Twitter client. Twitter API availability checks were not performed for this 
 * [10 January 2021](https://web.archive.org/web/20210110114247/https://twitter.com/The_SoapGirls/status/1348233058009407488): As much as its stressful times for all ppl we must not forget how to laugh! Even if we have to search hard its laughter that can push you thru the most tedious and painful moments! xx <!--1348233058009407488-->
 * [10 January 2021](https://web.archive.org/web/20210110105206/https://twitter.com/The_SoapGirls/status/1348220628541857792): communities will be paramount to survival! https://twitter.com/Paratus2014/status/1348215965553741825 <!--1348220628541857792-->
 * [10 January 2021](https://web.archive.org/web/20210110104343/https://twitter.com/The_SoapGirls/status/1348218830749892609): :)TY! We ARE never behind any person defo not politics/govt BUT WE are behind the state of mind, FREEDOM and we will support that and fight always against repression/censorship! Need to have all voices heard= democracy xx <!--1348218830749892609-->
-* [10 January 2021](https://web.archive.org/web/20210110100033/https://twitter.com/The_SoapGirls/status/1348207935739097090): Wrote a  #letter  to my  #love  and on the way I  #dropped  it ❤🤘 pic.twitter.com/GcKR7UBLBS <!--1348207935739097090-->
+* [10 January 2021](https://web.archive.org/web/20210110100033/https://twitter.com/The_SoapGirls/status/1348207935739097090): Wrote a  #letter  to my  #love  and on the way I  #dropped  it ❤🤘 pic.twitter.com/GcKR7UBLBS <!--1348207935739097090-->  
 
+This is part 1 of a generated report. Go [here to see part 2](https://github.com/TwitterArchives/SG/blob/main/Tweets/The_SoapGirls-twitter-archived-20260822-Part2.md).    
